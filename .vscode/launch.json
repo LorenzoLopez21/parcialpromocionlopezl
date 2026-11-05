@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ParcialpromocionlopezlApplication<parcialpromocionlopezl>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "icop.parcialpromocionlopezl.ParcialpromocionlopezlApplication",
+            "projectName": "parcialpromocionlopezl",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
