@@ -1,12 +1,31 @@
+HELP.md
 target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
 
-data/
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
 
-.env
+.idea
+*.iws
+*.iml
+*.ipr
+
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
 
 .vscode/
-.idea/
-*.iml
-.classpath
-.project
-.settings/
+data/
+.env
